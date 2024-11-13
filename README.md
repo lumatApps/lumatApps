@@ -60,9 +60,5 @@ At **lumat apps**, I offer a comprehensive suite of app development services:
 
 ## 🌟 Additional Information
 
-- **Pronouns:** [Your Pronouns]
 - **Fun Fact:** [Share a fun fact about yourself]
 
----
-
-*Interested in collaborating or have a project in mind? Feel free to reach out!* 🤝
