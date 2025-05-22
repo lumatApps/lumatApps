@@ -1,4 +1,4 @@
-# Hi there, I'm **@lumatApps**! 👋
+# Hi there, I'm **@lumatApps** 👋
 
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-iOS-blue)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-Android-green)
@@ -7,58 +7,43 @@
 
 ## 🚀 About Me
 
-I am a professional mobile application developer specializing in native iOS and Android apps. With a passion for creating seamless and intuitive user experiences, I leverage **SwiftUI** and **Kotlin/Jetpack Compose** to bring ideas to life.
+Mobile application developer focused on creating high-quality native iOS and Android applications. I specialize in building intuitive user experiences using modern frameworks and following industry best practices.
 
-## 💼 Services Offered
+I work primarily with **SwiftUI** for iOS development and **Jetpack Compose** for Android, leveraging declarative UI patterns to create maintainable and performant applications.
 
-At **lumat apps**, I offer a comprehensive suite of app development services:
+## 🛠️ My Tech Stack
 
-- **Conceptualization & Design**
-  - Transforming ideas into functional and engaging app designs.
-- **Development**
-  - Building robust apps using the latest technologies and best practices.
-- **Testing**
-  - Conducting thorough testing to ensure reliability and optimal performance.
-- **Deployment**
-  - Managing app launches on the App Store and Google Play Store.
-- **Maintenance & Support**
-  - Providing ongoing updates and support post-launch.
+**Core Technologies:**
+- Swift & SwiftUI (iOS Development)
+- Kotlin & Jetpack Compose (Android Development)
 
-## 🛠️ Skills & Technologies
+**Development Tools:**
+- Xcode, Android Studio
+- Git version control
+- Firebase backend services
 
-- **Programming Languages**
-  - Swift, Kotlin
-- **Frameworks**
-  - SwiftUI, Jetpack Compose
-- **Tools & Platforms**
-  - Xcode, Android Studio, Git, Firebase
-- **Expertise**
-  - RESTful APIs, MVVM Architecture, Agile Methodologies, UI/UX Design
+**Technical Expertise:**
+- RESTful API integration
+- MVVM architectural pattern
+- Cross-platform design principles
+- UI/UX implementation
 
-## 📱 Portfolio
+## 💡 Current Focus
 
-<!---
-### Project Title
+- Staying current with iOS and Android platform updates
+- Building personal projects to explore new technologies
+- Continuous learning and skill development
 
-**Description:** Briefly describe the project, its features, and the technologies used.
+## 📊 GitHub Stats
 
-**Impact:** Highlight the impact or success metrics of the project.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lumatApps&show_icons=true&theme=default)
 
-### Project Title
-
-**Description:** Briefly describe the project, its features, and the technologies used.
-
-**Impact:** Highlight the impact or success metrics of the project.
---->
-
-## 📬 Get in Touch
+## 📬 Connect With Me
 
 - **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **Website:** [www.lumatapps.com](https://www.lumatapps.com)
 - **LinkedIn:** [Your Name](https://www.linkedin.com/in/yourprofile)
 - **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
 
-## 🌟 Additional Information
+---
 
-- **Fun Fact:** [Share a fun fact about yourself]
-
+*"Quality software is built through attention to detail and continuous improvement."*
