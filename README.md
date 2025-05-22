@@ -16,11 +16,8 @@ I work primarily with **SwiftUI** for iOS development and **Jetpack Compose** fo
 **Core Technologies:**
 - Swift & SwiftUI (iOS Development)
 - Kotlin & Jetpack Compose (Android Development)
-
-**Development Tools:**
-- Xcode, Android Studio
-- Git version control
-- Firebase backend services
+- Firebase
+- Google Cloud Platform
 
 **Technical Expertise:**
 - RESTful API integration
@@ -34,16 +31,8 @@ I work primarily with **SwiftUI** for iOS development and **Jetpack Compose** fo
 - Building personal projects to explore new technologies
 - Continuous learning and skill development
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lumatApps&show_icons=true&theme=default)
-
 ## 📬 Connect With Me
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your Name](https://www.linkedin.com/in/yourprofile)
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
-
----
-
-*"Quality software is built through attention to detail and continuous improvement."*
+- **Website:** [lumatapps.com](https://www.linkedin.com/in/jaredtamulynas/)
+- **Email:** [lumat.apps@gmail.com](mailto:lumat.apps@gmail.com)
+- **LinkedIn:** [Jared Tamulynas](https://www.linkedin.com/in/jaredtamulynas/)
